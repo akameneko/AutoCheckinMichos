@@ -7,4 +7,4 @@ How to use:
 ________________________
 Security risk? Just check source code.
 ________________________
-Source from [it](https://github.com/tqk2811/AutoCheckinGI)
+Source from [it](https://github.com/tqk2811/AutoCheckinGI) & main code edited by my friend
