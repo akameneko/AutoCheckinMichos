@@ -1,0 +1,18 @@
+{
+    "name": "Michos checkin",
+    "description": "GI checkin by tqk2811",
+    "version": "0.0.1.0",
+    "host_permissions": [ "*://*.hoyolab.com/*" ],
+    "permissions": [
+        "webRequest"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+  "icons": {
+    "128": "img/icon.png",
+    "16": "img/icon.png",
+    "48": "img/icon.png"
+  },
+    "manifest_version": 3
+}
