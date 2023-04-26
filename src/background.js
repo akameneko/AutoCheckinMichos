@@ -16,7 +16,7 @@ async function onload() {
         console.log(await res2.text());
         
         var res3 = await fetch(
-            "https://sg-public-api.hoyolab.com/event/luna/os/sign?lang=vi-vn",
+            "https://sg-public-api.hoyolab.com/event/luna/sign?lang=vi-vn",
             { method: "POST", body: JSON.stringify({ act_id: "e202303301540311" }) });
         console.log(await res3.text());
     }
